@@ -4,7 +4,6 @@ I'm a Product Manager who loves building ML-powered products.
 
 ### 👷 Check out what I'm currently working on
 
-- [guap](https://github.com/guap-ml/guap) - [WIP] 📈 Guap
 - [ulyssebottello/alan](https://github.com/ulyssebottello/Alan) - [WIP] 💖 Slack Sentiment Analysis for Alan
 - [ulyssebottello/awesome-aipm](https://github.com/ulyssebottello/awesome-aipm) - [WIP] 🧰 Best AI/ML Product ressources curated
 - [ulyssebottello.com](https://ulyssebottello.com/) - My personal website
@@ -13,6 +12,7 @@ I'm a Product Manager who loves building ML-powered products.
 
 ### 🌱 My latest projects
 
+- [guap](https://github.com/guap-ml/guap) - 📈 Guap
 - [ulyssebottello/Lydia-ETF-Clustering](https://github.com/ulyssebottello/Lydia-ETF-Clustering) - 💸 ETF Clustering for Lydia
 - [ulyssebottello/power-plant-predict](https://github.com/ulyssebottello/power-plant-predict) - 🌱 Power plant prediction
 
