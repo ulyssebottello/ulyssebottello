@@ -4,7 +4,7 @@ I'm a Product Manager who loves building ML-powered products. Keep learning, kee
 
 ### 👷 Check out what I'm currently working on
 
-- 🥷 An agnostic End-user-Facing Prediction Explainer based on LIME (MVP on Gradio) 🥷
+- [ulysse/lyme](https://huggingface.co/spaces/ulysse/lyme/tree/main) - [WIP] 🤗 Explaineme a model; prediction, like I'm 5 (MVP on Gradio)
 - [ulyssebottello/alan](https://github.com/ulyssebottello/Alan) - [WIP] 💖 Slack Sentiment Analysis for Alan
 - [ulyssebottello/awesome-aipm](https://github.com/ulyssebottello/awesome-aipm) - [WIP] 🧰 Best AI/ML Product ressources curated
 - [ulyssebottello.com](https://ulyssebottello.com/) - My personal website
