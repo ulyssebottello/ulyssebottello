@@ -3,14 +3,14 @@
 I'm a Product Manager who loves building ML-powered products. Keep learning, keep shipping.
 
 ### 👷 Check out what I'm currently working on
-
-- [ulysse/lyme](https://huggingface.co/spaces/ulysse/lyme/tree/main) - [WIP] 🤗 Explain me a model prediction like I'm 5 (Demo on HF Spaces)
+- Refreshed Machine Learning Specialization by Andrew Ng
+- Experimenting with Deepset's [Heystack](https://github.com/deepset-ai/haystack)
 - [ulyssebottello.com](https://ulyssebottello.com/) - My personal website
 
 
 
 ### 🌱 My latest projects
-
+- [ulysse/lyme](https://huggingface.co/spaces/ulysse/lyme/tree/main) - 🤗 Explain me a model prediction like I'm 5 (Demo on HF Spaces)
 - [guap](https://github.com/guap-ml/guap) - 📈 Guap, evaluation metric for linking ML outputs with Business outcomes
 - [ulyssebottello/Lydia-ETF-Clustering](https://github.com/ulyssebottello/Lydia-ETF-Clustering) - 💸 ETF Clustering for Lydia
 - [ulyssebottello/power-plant-predict](https://github.com/ulyssebottello/power-plant-predict) - 🌱 Power plant prediction
