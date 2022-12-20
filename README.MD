@@ -3,9 +3,9 @@
 I'm a Product Manager who loves building ML-powered products. Keep learning, keep shipping.
 
 ### 👷 Check out what I'm currently working on
-- [ulysse/satoshi-QA](https://github.com/ulyssebottello/Satoshi-QA) - 💬 QA model trained on Satoshi posts and emails using [deepset.ai Haystack](https://github.com/deepset-ai/haystack)
+- Something new, around Product Management and LLMs
 - [ulyssebottello.com](https://ulyssebottello.com/) - My personal website
-- Machine Learning Specialization by Andrew Ng (3/3)
+- Natural Language Processing Specialization by DeepLearning.ai (1/4)
 
 
 ### 🌱 My latest projects
