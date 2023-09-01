@@ -5,7 +5,6 @@ I'm a Product Manager who loves building ML-powered products. Keep learning, kee
 ### 👷 Check out what I'm currently working on
 - Something new, around Product Management and LLMs
 - [ulyssebottello.com](https://ulyssebottello.com/) - My personal website
-- Natural Language Processing Specialization by DeepLearning.ai (1/4)
 
 
 ### 🌱 My latest projects
